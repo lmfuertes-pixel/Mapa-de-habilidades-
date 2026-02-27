@@ -1,4 +1,4 @@
-# Mapa de Habilidades e Caminhos de Monetização
+---
 
 Este documento organiza minhas respostas ao questionário de habilidades, junto com avaliações feitas pelo Copilot, para identificar pontos fortes e possíveis formas de monetização.
 
@@ -177,3 +177,6 @@ O caminho de monetização passa por **plataformas de freelancers, conteúdo gra
 O **Mapa de Habilidades** mostra que suas competências em **criação de conteúdo, tecnologia, análise crítica e comunicação autêntica** têm grande potencial de monetização.  
 Os caminhos escolhidos (freelancers, redes sociais, site próprio e parcerias locais) são estratégicos para construir reputação, atrair clientes e gerar renda consistente.  
 Produtos digitais complementam essa estratégia, oferecendo escalabilidade e diversificação de receita.
+---
+
+📌 [Leia a conclusão final aqui](CONCLUSAO.md)
